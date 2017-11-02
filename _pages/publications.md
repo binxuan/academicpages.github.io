@@ -1,10 +1,8 @@
 ---
-permalink: /Publications/
+layout: archive
 title: "Publications"
+permalink: /publications/
 author_profile: true
-redirect_from: 
-  - /Publications/
-  - /Publications.html
 ---
 
 ## On Predicting Geolocation of Tweets Using Convolutional Neural Networks
