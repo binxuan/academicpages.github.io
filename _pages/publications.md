@@ -30,15 +30,15 @@ Yujie Qian, Jie Tang, Zhilin Yang, Binxuan Huang, Wei Wei and Kathleen Carley <b
 In submission
 
 ### Aspect Level Sentiment Classication with Neural Attentions
-Binxuan Huang and Kathleen M. Carley <br \>
+Binxuan Huang and Kathleen M. Carley <br /> 
 To be submitted
 
 ### Semi-supervised Twitter User Location Prediction
-Binxuan Huang and Kathleen M. Carley <br \>
+Binxuan Huang and Kathleen M. Carley <br /> 
 In preparation
 
 ## Technical Reports
 ### NATO Trident Juncture on Twitter: Public Discussion
-William Frankenstein, Binxuan Huang and Kathleen M. Carley <br \>
+William Frankenstein, Binxuan Huang and Kathleen M. Carley <br /> 
 [PDF](http://www.casos.cs.cmu.edu/publications/papers/TwitterNATO-CMU-ISR-16-100.pdf)
 
