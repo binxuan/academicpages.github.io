@@ -7,7 +7,7 @@ author_profile: true
 
 
 ### On Predicting Geolocation of Tweets Using Convolutional Neural Networks
-
+Binxuan Huang and Kathleen Carley
 PDF [link](http://github.com "Github").
 * Top navigation bar config: _data/navigation.yml
 * Single pages: _pages/
