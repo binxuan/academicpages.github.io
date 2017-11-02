@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 
-* On Predicting Geolocation of Tweets Using Convolutional Neural Networks
-On Predicting Geolocation of Tweets Using Convolutional Neural Networks
+### On Predicting Geolocation of Tweets Using Convolutional Neural Networks
 
+PDF [link](http://github.com "Github").
 * Top navigation bar config: _data/navigation.yml
 * Single pages: _pages/
 * Collections of pages are .md or .html files in:
