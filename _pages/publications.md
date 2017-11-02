@@ -5,9 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-## On Predicting Geolocation of Tweets Using Convolutional Neural Networks
 
-* Basic config options: _config.yml
+* On Predicting Geolocation of Tweets Using Convolutional Neural Networks
+On Predicting Geolocation of Tweets Using Convolutional Neural Networks
+
 * Top navigation bar config: _data/navigation.yml
 * Single pages: _pages/
 * Collections of pages are .md or .html files in:
