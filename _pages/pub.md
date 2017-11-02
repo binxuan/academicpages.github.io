@@ -1,10 +1,10 @@
 ---
-permalink: /markdown/
-title: "Markdown"
+permalink: /pub/
+title: "Publications"
 author_profile: true
 redirect_from: 
-  - /md/
-  - /markdown.html
+  - /pub/
+  - /pub.html
 ---
 
 ## On Predicting Geolocation of Tweets Using Convolutional Neural Networks
