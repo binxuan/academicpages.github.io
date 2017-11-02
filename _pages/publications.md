@@ -11,7 +11,7 @@ author_profile: true
 SBP-BRiMS 2017<br /> 
 [Link](https://link.springer.com/chapter/10.1007/978-3-319-60240-0_34), 
 [Arxiv](https://arxiv.org/abs/1704.05146), 
-[Slides](https://binxuan.github.io/publications/files/location_prediction.pdf)
+[Slides](https://binxuan.github.io/files/location_prediction.pdf)
 
 ### RATE: Overcoming Noise and Sparsity of Textual Features in Real-Time Location Estimation
 Yu Zhang, Wei Wei, **Binxuan Huang**, Kathleen M. Carley and Yan Zhang<br /> 
