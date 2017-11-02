@@ -3,8 +3,8 @@ permalink: /Publications/
 title: "Publications"
 author_profile: true
 redirect_from: 
-  - /pub/
-  - /pub.html
+  - /Publications/
+  - /Publications.html
 ---
 
 ## On Predicting Geolocation of Tweets Using Convolutional Neural Networks
