@@ -17,7 +17,7 @@ CIKM 2017<br />
 [PDF](http://www.casos.cs.cmu.edu/publications/papers/2017LocationInference.pdf)
 
 ### The Role of Different Tie Strength in Disseminating Different Topics on a Microblog
-Felicia Natali, Kathleen M. Carley, Feida Zhu and Binxuan Huang
+Felicia Natali, Kathleen M. Carley, Feida Zhu and Binxuan Huang <br /> 
 ASONAM 2017
 
 ## Working Papers
