@@ -35,7 +35,7 @@ In submission
 **Binxuan Huang** and Kathleen M. Carley <br /> 
 To be submitted
 
-### Semi-supervised Twitter User Location Prediction
+### Twitter User Location Prediction Unifying Text and Network
 **Binxuan Huang** and Kathleen M. Carley <br /> 
 In preparation
 
