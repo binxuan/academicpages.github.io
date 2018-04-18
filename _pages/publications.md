@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 ## Conference Papers
+### Aspect Level Sentiment Classication with Neural Attentions
+**Binxuan Huang**, Yanglan Ou and Kathleen M. Carley <br /> 
+SBP-BRiMS 2018<br /> 
+
 ### On Predicting Geolocation of Tweets Using Convolutional Neural Networks
 **Binxuan Huang** and Kathleen M. Carley<br /> 
 SBP-BRiMS 2017<br /> 
@@ -31,9 +35,6 @@ In submission
 Yujie Qian, Jie Tang, Zhilin Yang, **Binxuan Huang**, Wei Wei and Kathleen Carley <br />
 In submission
 
-### Aspect Level Sentiment Classication with Neural Attentions
-**Binxuan Huang** and Kathleen M. Carley <br /> 
-To be submitted
 
 ### Twitter User Location Prediction Unifying Text and Network
 **Binxuan Huang** and Kathleen M. Carley <br /> 
