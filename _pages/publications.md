@@ -21,11 +21,14 @@ SBP-BRiMS 2017<br />
 ### RATE: Overcoming Noise and Sparsity of Textual Features in Real-Time Location Estimation
 Yu Zhang, Wei Wei, **Binxuan Huang**, Kathleen M. Carley and Yan Zhang<br /> 
 CIKM 2017<br /> 
+[Link](https://dl.acm.org/citation.cfm?id=3133067),
 [PDF](http://www.casos.cs.cmu.edu/publications/papers/2017LocationInference.pdf)
 
 ### The Role of Different Tie Strength in Disseminating Different Topics on a Microblog
 Felicia Natali, Kathleen M. Carley, Feida Zhu and **Binxuan Huang** <br /> 
 ASONAM 2017
+[Link](https://dl.acm.org/citation.cfm?id=3110130),
+[PDF](http://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=4929&context=sis_research)
 
 ## Working Papers
 ### Location Order Recovery in Trails with Low Temporal Resolution
