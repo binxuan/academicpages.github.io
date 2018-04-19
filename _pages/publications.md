@@ -26,7 +26,7 @@ CIKM 2017<br />
 
 ### The Role of Different Tie Strength in Disseminating Different Topics on a Microblog
 Felicia Natali, Kathleen M. Carley, Feida Zhu and **Binxuan Huang** <br /> 
-ASONAM 2017
+ASONAM 2017<br /> 
 [Link](https://dl.acm.org/citation.cfm?id=3110130),
 [PDF](http://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=4929&context=sis_research)
 
