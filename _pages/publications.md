@@ -9,6 +9,7 @@ author_profile: true
 ### Aspect Level Sentiment Classication with Neural Attentions
 **Binxuan Huang**, Yanglan Ou and Kathleen M. Carley <br /> 
 SBP-BRiMS 2018<br /> 
+[Arxiv](https://arxiv.org/abs/1804.06536)
 
 ### On Predicting Geolocation of Tweets Using Convolutional Neural Networks
 **Binxuan Huang** and Kathleen M. Carley<br /> 
