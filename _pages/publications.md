@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Conference Papers
-### Aspect Level Sentiment Classication with Neural Attentions
+### Aspect Level Sentiment Classification with Attention-over-Attention Neural Networks
 **Binxuan Huang**, Yanglan Ou and Kathleen M. Carley <br /> 
 SBP-BRiMS 2018<br /> 
 [Arxiv](https://arxiv.org/abs/1804.06536)
