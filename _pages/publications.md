@@ -6,6 +6,11 @@ author_profile: true
 ---
 
 ## Conference Papers
+### Parameterized Convolutional Neural Networks for Aspect Level Sentiment Classification
+
+**Binxuan Huang**, Kathleen M. Carley <br /> 
+EMNLP 2018<br /> 
+
 ### Aspect Level Sentiment Classification with Attention-over-Attention Neural Networks
 **Binxuan Huang**, Yanglan Ou and Kathleen M. Carley <br /> 
 SBP-BRiMS 2018<br /> 
