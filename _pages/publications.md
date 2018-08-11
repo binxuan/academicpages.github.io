@@ -14,7 +14,10 @@ EMNLP 2018<br />
 ### Aspect Level Sentiment Classification with Attention-over-Attention Neural Networks
 **Binxuan Huang**, Yanglan Ou and Kathleen M. Carley <br /> 
 SBP-BRiMS 2018<br /> 
+[Link](https://link.springer.com/chapter/10.1007/978-3-319-93372-6_22)
 [Arxiv](https://arxiv.org/abs/1804.06536)
+[Slides](https://binxuan.github.io/files/aspect_sentiment_aoa.pdf)
+
 
 ### On Predicting Geolocation of Tweets Using Convolutional Neural Networks
 **Binxuan Huang** and Kathleen M. Carley<br /> 
