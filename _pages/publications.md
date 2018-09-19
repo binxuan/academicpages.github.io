@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 ## Conference Papers
+### Location Order Recovery in Trails with Low Temporal Resolution
+**Binxuan Huang** and Kathleen M. Carley<br /> 
+IEEE Transactions on Network Science and Engineering
+
 ### Parameterized Convolutional Neural Networks for Aspect Level Sentiment Classification
 
 **Binxuan Huang**, Kathleen M. Carley <br /> 
@@ -39,9 +43,7 @@ ASONAM 2017<br />
 [PDF](http://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=4929&context=sis_research)
 
 ## Working Papers
-### Location Order Recovery in Trails with Low Temporal Resolution
-**Binxuan Huang** and Kathleen M. Carley<br /> 
-In submission
+
 
 ### A Probabilistic Framework for Location Inference from Social Media
 Yujie Qian, Jie Tang, Zhilin Yang, **Binxuan Huang**, Wei Wei and Kathleen Carley <br />
