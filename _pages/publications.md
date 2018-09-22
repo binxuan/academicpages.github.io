@@ -44,7 +44,7 @@ ASONAM 2017<br />
 
 ## Working Papers
 ### A Large Scale Empirical Study of Geotagging Behavior on Twitter
-**Binxuan Huang** and Kathleen Carley (in submission)
+**Binxuan Huang** and Kathleen M. Carley (in submission)
 
 ### A Probabilistic Framework for Location Inference from Social Media
 Yujie Qian, Jie Tang, Zhilin Yang, **Binxuan Huang**, Wei Wei and Kathleen Carley <br />
