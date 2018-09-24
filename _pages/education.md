@@ -11,4 +11,4 @@ Ph.D. in Societal Computing, 2015 - present
 
 ### Zhejiang University
 B.S. in Physics, 2015 <br />
-B.E. in Computer Science (second degree), 2015
+B.E. in Computer Science, 2015
