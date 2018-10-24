@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Conference Papers
+## Peer-reviewed Papers
 ### Location Order Recovery in Trails with Low Temporal Resolution
 **Binxuan Huang** and Kathleen M. Carley<br /> 
 IEEE Transactions on Network Science and Engineering<br /> 
