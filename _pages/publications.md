@@ -9,11 +9,13 @@ author_profile: true
 ### Location Order Recovery in Trails with Low Temporal Resolution
 **Binxuan Huang** and Kathleen M. Carley<br /> 
 IEEE Transactions on Network Science and Engineering
+[Link](https://ieeexplore.ieee.org/document/8470968)
 
 ### Parameterized Convolutional Neural Networks for Aspect Level Sentiment Classification
 
 **Binxuan Huang** and Kathleen M. Carley <br /> 
 EMNLP 2018<br /> 
+[PDF](https://binxuan.github.io/files/emnlp2018.pdf)
 
 ### Aspect Level Sentiment Classification with Attention-over-Attention Neural Networks
 **Binxuan Huang**, Yanglan Ou and Kathleen M. Carley <br /> 
