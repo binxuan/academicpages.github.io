@@ -59,7 +59,7 @@ In submission
 
 ### Twitter User Location Prediction Unifying Text and Network
 **Binxuan Huang** and Kathleen M. Carley <br /> 
-In preparation
+In submission
 
 ## Technical Reports
 ### NATO Trident Juncture on Twitter: Public Discussion
