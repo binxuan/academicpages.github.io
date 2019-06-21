@@ -6,6 +6,11 @@ author_profile: true
 ---
 
 ## Peer-reviewed Papers
+###  A Large-Scale Empirical Study of Geotagging Behavior on Twitter
+**Binxuan Huang** and Kathleen M. Carley<br /> 
+ASONAM 2019<br /> 
+To appear
+
 ### Location Order Recovery in Trails with Low Temporal Resolution
 **Binxuan Huang** and Kathleen M. Carley<br /> 
 IEEE Transactions on Network Science and Engineering<br /> 
@@ -45,8 +50,7 @@ ASONAM 2017<br />
 [PDF](http://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=4929&context=sis_research)
 
 ## Working Papers
-### A Large Scale Empirical Study of Geotagging Behavior on Twitter
-**Binxuan Huang** and Kathleen M. Carley (in submission)
+
 
 ### A Probabilistic Framework for Location Inference from Social Media
 Yujie Qian, Jie Tang, Zhilin Yang, **Binxuan Huang**, Wei Wei and Kathleen Carley <br />
