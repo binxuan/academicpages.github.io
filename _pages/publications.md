@@ -14,7 +14,7 @@ To appear
 ### Location Order Recovery in Trails with Low Temporal Resolution
 **Binxuan Huang** and Kathleen M. Carley<br /> 
 IEEE Transactions on Network Science and Engineering<br /> 
-[Link](https://ieeexplore.ieee.org/document/8470968)
+[Link](https://ieeexplore.ieee.org/document/8470968),
 [PDF](https://binxuan.github.io/files/location-order-recovery_final_version.pdf)
 
 ### Parameterized Convolutional Neural Networks for Aspect Level Sentiment Classification
