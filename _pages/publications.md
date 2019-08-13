@@ -6,6 +6,16 @@ author_profile: true
 ---
 
 ## Peer-reviewed Papers
+###  Syntax-Aware Aspect Level Sentiment Classification with Graph Attention Networks
+**Binxuan Huang** and Kathleen M. Carley<br /> 
+EMNLP 2019<br /> 
+To appear
+
+###  A Hierarchical Location Prediction Neural Network for Twitter User Geolocation
+**Binxuan Huang** and Kathleen M. Carley<br /> 
+EMNLP 2019<br /> 
+To appear
+
 ###  A Large-Scale Empirical Study of Geotagging Behavior on Twitter
 **Binxuan Huang** and Kathleen M. Carley<br /> 
 ASONAM 2019<br /> 
@@ -57,8 +67,7 @@ ASONAM 2017<br />
 Yujie Qian, Jie Tang, Zhilin Yang, **Binxuan Huang**, Wei Wei and Kathleen Carley <br />
 In submission
 
-
-### Twitter User Location Prediction Unifying Text and Network
+### Twitter User Identity Classification
 **Binxuan Huang** and Kathleen M. Carley <br /> 
 In submission
 
