@@ -67,7 +67,7 @@ Tai-Long He, Dylan Jones, **Binxuan Huang**, Yuyang Liu, Kazuyuki Miyazaki, Zhe 
 
 ### A Probabilistic Framework for Location Inference from Social Media
 Yujie Qian, Jie Tang, Zhilin Yang, **Binxuan Huang**, Wei Wei and Kathleen Carley <br />
-In submission
+[Arxiv](https://arxiv.org/abs/1702.07281) In submission
 
 ### Twitter User Identity Classification
 **Binxuan Huang** and Kathleen M. Carley <br /> 
