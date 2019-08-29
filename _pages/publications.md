@@ -63,17 +63,19 @@ ASONAM 2017<br />
 ## Working Papers
 ### Recurrent U-net: Deep learning to predict daily summertime ozone in the United States
 Tai-Long He, Dylan Jones, **Binxuan Huang**, Yuyang Liu, Kazuyuki Miyazaki, Zhe Jiang, E Charlie White, Helen M Worden, John R Worden <br />
-[Arxiv](https://arxiv.org/abs/1908.05841) In submission
+In submission <br />
+[Arxiv](https://arxiv.org/abs/1908.05841) 
 
 ### A Probabilistic Framework for Location Inference from Social Media
 Yujie Qian, Jie Tang, Zhilin Yang, **Binxuan Huang**, Wei Wei and Kathleen Carley <br />
-[Arxiv](https://arxiv.org/abs/1702.07281) In submission
+[Arxiv](https://arxiv.org/abs/1702.07281)
 
 ### Twitter User Identity Classification
 **Binxuan Huang** and Kathleen M. Carley <br /> 
 In submission
 
 ## Technical Reports
+
 ### NATO Trident Juncture on Twitter: Public Discussion
 William Frankenstein, **Binxuan Huang** and Kathleen M. Carley <br /> 
 [PDF](http://www.casos.cs.cmu.edu/publications/papers/TwitterNATO-CMU-ISR-16-100.pdf)
