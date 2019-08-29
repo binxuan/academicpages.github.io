@@ -78,8 +78,9 @@ In submission
 William Frankenstein, **Binxuan Huang** and Kathleen M. Carley <br /> 
 [PDF](http://www.casos.cs.cmu.edu/publications/papers/TwitterNATO-CMU-ISR-16-100.pdf)
 
-### Residual or Gate? Towards Deeper Graph Neural Networks for Inductive Graph Representation Learning
+<!--- ### Residual or Gate? Towards Deeper Graph Neural Networks for Inductive Graph Representation Learning
 Binxuan Huang, Kathleen M. Carley  <br /> 
 [Arxiv](https://arxiv.org/abs/1904.08035)
+-->
 
 
