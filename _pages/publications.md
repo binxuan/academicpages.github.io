@@ -19,6 +19,7 @@ To appear
 ###  A Large-Scale Empirical Study of Geotagging Behavior on Twitter
 **Binxuan Huang** and Kathleen M. Carley<br /> 
 ASONAM 2019<br /> 
+[Arxiv](https://arxiv.org/abs/1908.10948)
 [Slides](https://binxuan.github.io/files/asonam_2019.pdf)
 
 ### Location Order Recovery in Trails with Low Temporal Resolution
