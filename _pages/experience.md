@@ -22,16 +22,16 @@ Advisor: Prof. Xiaogang Jin, AI Lab, Zhejiang University, 2014-2015 <br />
 
 ### Talks
 • A Large-Scale Empirical Study of Geotagging Behavior on Twitter, ASONAM 2019
-[Slides](https://binxuan.github.io/files/asonam_2019.pdf)
+[[Slides]](https://binxuan.github.io/files/asonam_2019.pdf)
 <br />
 • Syntax-Aware Aspect Level Sentiment Classiﬁcation with Graph Attention Networks, Amazon Alexa AI, 2019/06
-[Slides](https://binxuan.github.io/files/aspect_tdgat.pdf)<br />
+[[Slides]](https://binxuan.github.io/files/aspect_tdgat.pdf)<br />
 • Aspect Level Sentiment Classiﬁcation with Attention-over-Attention Neural Networks, SBP-BRiMS 2018
-[Slides](https://binxuan.github.io/files/aspect_sentiment_aoa.pdf)<br />
+[[Slides]](https://binxuan.github.io/files/aspect_sentiment_aoa.pdf)<br />
 • A Large-Scale Empirical Study of Geotagging Behavior on Twitter, CASOS Summer Institute, 2018/06
-[Slides](https://binxuan.github.io/files/asonam_2019.pdf)<br />
+[[Slides]](https://binxuan.github.io/files/asonam_2019.pdf)<br />
 • On Predicting Geolocation of Tweets Using Convolutional Neural Networks, SBP-BRiMS 2017
-[Slides](https://binxuan.github.io/files/location_prediction.pdf)<br />
+[[Slides]](https://binxuan.github.io/files/location_prediction.pdf)<br />
 
 
 ### Professional Service
