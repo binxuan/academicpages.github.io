@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### Carnegie Mellon University
-Institute for Software Research, School of Computer Science <br />
+School of Computer Science <br />
 Ph.D. in Societal Computing, 2015 - present
 
 ### Zhejiang University
