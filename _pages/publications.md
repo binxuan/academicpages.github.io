@@ -61,7 +61,7 @@ ASONAM 2017<br />
 [Link](https://dl.acm.org/citation.cfm?id=3110130),
 [PDF](http://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=4929&context=sis_research)
 
-## Working Papers
+## Preprints
 ### Recurrent U-net: Deep learning to predict daily summertime ozone in the United States
 Tai-Long He, Dylan Jones, **Binxuan Huang**, Yuyang Liu, Kazuyuki Miyazaki, Zhe Jiang, E Charlie White, Helen M Worden, John R Worden <br />
 In submission <br />
@@ -71,9 +71,10 @@ In submission <br />
 Yujie Qian, Jie Tang, Zhilin Yang, **Binxuan Huang**, Wei Wei and Kathleen Carley <br />
 [Arxiv](https://arxiv.org/abs/1702.07281)
 
-### Twitter User Identity Classification
+### Residual or Gate? Towards Deeper Graph Neural Networks for Inductive Graph Representation Learning.
 **Binxuan Huang** and Kathleen M. Carley <br /> 
-In submission
+[Arxiv](https://arxiv.org/abs/1904.08035)
+
 
 ## Technical Reports
 
