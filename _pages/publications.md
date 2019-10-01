@@ -16,6 +16,11 @@ To appear
 EMNLP 2019<br /> 
 To appear
 
+### Residual or Gate? Towards Deeper Graph Neural Networks for Inductive Graph Representation Learning.
+**Binxuan Huang** and Kathleen M. Carley <br /> 
+NeurIPS Graph Representation Learning Workshop 2019 <br /> 
+[Arxiv](https://arxiv.org/abs/1904.08035)
+
 ###  A Large-Scale Empirical Study of Geotagging Behavior on Twitter
 **Binxuan Huang** and Kathleen M. Carley<br /> 
 ASONAM 2019<br /> 
@@ -29,7 +34,6 @@ IEEE Transactions on Network Science and Engineering<br />
 [PDF](https://binxuan.github.io/files/location-order-recovery_final_version.pdf)
 
 ### Parameterized Convolutional Neural Networks for Aspect Level Sentiment Classification
-
 **Binxuan Huang** and Kathleen M. Carley <br /> 
 EMNLP 2018<br /> 
 [PDF](https://binxuan.github.io/files/emnlp2018.pdf)
@@ -71,9 +75,7 @@ In submission <br />
 Yujie Qian, Jie Tang, Zhilin Yang, **Binxuan Huang**, Wei Wei and Kathleen Carley <br />
 [Arxiv](https://arxiv.org/abs/1702.07281)
 
-### Residual or Gate? Towards Deeper Graph Neural Networks for Inductive Graph Representation Learning.
-**Binxuan Huang** and Kathleen M. Carley <br /> 
-[Arxiv](https://arxiv.org/abs/1904.08035)
+
 
 
 ## Technical Reports
