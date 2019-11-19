@@ -9,7 +9,8 @@ author_profile: true
 ###  Syntax-Aware Aspect Level Sentiment Classification with Graph Attention Networks
 **Binxuan Huang** and Kathleen M. Carley<br /> 
 EMNLP 2019<br /> 
-[PDF](https://www.aclweb.org/anthology/D19-1549.pdf)[uncleaned code](https://www.dropbox.com/s/pf9hktycar4ohdo/aspect_gnn.zip?dl=0)
+[PDF](https://www.aclweb.org/anthology/D19-1549.pdf),
+[uncleaned code](https://www.dropbox.com/s/pf9hktycar4ohdo/aspect_gnn.zip?dl=0)
 
 ###  A Hierarchical Location Prediction Neural Network for Twitter User Geolocation
 **Binxuan Huang** and Kathleen M. Carley<br /> 
@@ -43,7 +44,7 @@ EMNLP 2018<br />
 SBP-BRiMS 2018<br /> 
 [Link](https://link.springer.com/chapter/10.1007/978-3-319-93372-6_22),
 [Arxiv](https://arxiv.org/abs/1804.06536),
-[Slides](https://binxuan.github.io/files/aspect_sentiment_aoa.pdf)
+[Slides](https://binxuan.github.io/files/aspect_sentiment_aoa.pdf),
 [code](https://www.dropbox.com/s/hri1su5axbaladd/code_share.zip?dl=0)
 
 
