@@ -45,7 +45,7 @@ SBP-BRiMS 2018<br />
 [Link](https://link.springer.com/chapter/10.1007/978-3-319-93372-6_22),
 [Arxiv](https://arxiv.org/abs/1804.06536),
 [Slides](https://binxuan.github.io/files/aspect_sentiment_aoa.pdf),
-[code](https://www.dropbox.com/s/hri1su5axbaladd/code_share.zip?dl=0)
+[Code](https://www.dropbox.com/s/hri1su5axbaladd/code_share.zip?dl=0)
 
 
 ### On Predicting Geolocation of Tweets Using Convolutional Neural Networks
