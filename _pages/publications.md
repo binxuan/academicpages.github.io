@@ -20,7 +20,9 @@ EMNLP 2019<br />
 ### Residual or Gate? Towards Deeper Graph Neural Networks for Inductive Graph Representation Learning.
 **Binxuan Huang** and Kathleen M. Carley <br /> 
 NeurIPS Graph Representation Learning Workshop 2019 <br /> 
-[Arxiv](https://arxiv.org/abs/1904.08035)
+[Arxiv](https://arxiv.org/abs/1904.08035),
+[Code](https://www.dropbox.com/s/9ii7w9kuobctg62/src.zip?dl=0)
+
 
 ###  A Large-Scale Empirical Study of Geotagging Behavior on Twitter
 **Binxuan Huang** and Kathleen M. Carley<br /> 
