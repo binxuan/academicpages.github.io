@@ -9,12 +9,12 @@ author_profile: true
 ###  Syntax-Aware Aspect Level Sentiment Classification with Graph Attention Networks
 **Binxuan Huang** and Kathleen M. Carley<br /> 
 EMNLP 2019<br /> 
-To appear
+[PDF](https://www.aclweb.org/anthology/D19-1549.pdf)
 
 ###  A Hierarchical Location Prediction Neural Network for Twitter User Geolocation
 **Binxuan Huang** and Kathleen M. Carley<br /> 
 EMNLP 2019<br /> 
-To appear
+[PDF](https://www.aclweb.org/anthology/D19-1480.pdf)
 
 ### Residual or Gate? Towards Deeper Graph Neural Networks for Inductive Graph Representation Learning.
 **Binxuan Huang** and Kathleen M. Carley <br /> 
