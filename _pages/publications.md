@@ -10,7 +10,7 @@ author_profile: true
 **Binxuan Huang** and Kathleen M. Carley<br /> 
 EMNLP 2019<br /> 
 [PDF](https://www.aclweb.org/anthology/D19-1549.pdf),
-[uncleaned code](https://www.dropbox.com/s/pf9hktycar4ohdo/aspect_gnn.zip?dl=0)
+[uncleaned code](https://www.dropbox.com/sh/bwkyo58cymy3x9v/AACaiOBKZNtObf5pzevjJQVva?dl=0)
 
 ###  A Hierarchical Location Prediction Neural Network for Twitter User Geolocation
 **Binxuan Huang** and Kathleen M. Carley<br /> 
