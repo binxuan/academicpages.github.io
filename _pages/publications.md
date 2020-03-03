@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 ## Peer-reviewed Papers
+###  Discover Your Social Identity from What You Tweet: A Content Based Approach
+**Binxuan Huang** and Kathleen M. Carley<br /> 
+Disinformation, Misinformation, and Fake News in Social Media: Emerging Research Challenges and Opportunities, 2020<br /> 
+
 ###  Syntax-Aware Aspect Level Sentiment Classification with Graph Attention Networks
 **Binxuan Huang** and Kathleen M. Carley<br /> 
 EMNLP 2019<br /> 
