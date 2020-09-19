@@ -15,7 +15,7 @@ Mentor: Dr. Han Wang, Amazon Alexa AI, 2019.5 - 2019.8<br />
 • Proposed a novel multi-grained matching approach to improve Alexa’s NLU performance with knowledge graph [INTERSPEECH'20].<br />
 
 ### Research Assistant
-Advisor: Prof. Kathleen M. Carley, CASOS, Carnegie Mellon University, 2015.8-Present<br />
+Advisor: Prof. Kathleen M. Carley, CASOS, Carnegie Mellon University, 2015.8 - 2020.5 <br />
 • Proposed multiple methods for semantic modeling sentence pairs, with an application on aspect-level sentiment classiﬁcation [EMNLP’19, EMNLP’18, SBP-BRiMS’18].<br />
 • Modeling social media users with various types of features, eg. text, categorical features, network, for user attributes prediction [EMNLP’19, TNSE’18, SBP-BRiMS’17, CIKM’17].<br />
 • Developed a high throughput tweet collection system. Collected and analyzed more than 40 billion tweets (16TB after compression) from 20 million users using Spark [ASONAM’19, ASONAM’17]<br />
