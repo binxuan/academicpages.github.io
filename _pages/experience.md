@@ -5,11 +5,12 @@ permalink: /experience/
 author_profile: true
 ---
 ### Applied Scientist
+2020.6 - Present
 • Building an automatic knowledge extraction system for every product in the world.
 
 
 ### Applied Scientist Intern
-Mentor: Dr. Han Wang, Amazon Alexa AI, 2019.5-2019.8<br />
+Mentor: Dr. Han Wang, Amazon Alexa AI, 2019.5 - 2019.8<br />
 • Built an entity linking system over the entire Amazon music knowledge graph<br />
 • Proposed a novel multi-grained matching approach to improve Alexa’s NLU performance with knowledge graph [INTERSPEECH'20].<br />
 
