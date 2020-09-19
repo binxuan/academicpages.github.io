@@ -5,7 +5,7 @@ permalink: /experience/
 author_profile: true
 ---
 ### Applied Scientist
-2020.6 - Present
+2020.6 - Present<br />
 • Building an automatic knowledge extraction system for every product in the world.
 
 
