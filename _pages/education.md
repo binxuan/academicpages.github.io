@@ -7,7 +7,7 @@ author_profile: true
 
 ### Carnegie Mellon University
 School of Computer Science <br />
-Ph.D. in Societal Computing, 2015 - present
+Ph.D. in Societal Computing, 2020
 
 ### Zhejiang University
 B.S. in Physics, 2015 <br />
