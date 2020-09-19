@@ -4,6 +4,9 @@ title: "Experience"
 permalink: /experience/
 author_profile: true
 ---
+### Applied Scientist
+• Building an automatic knowledge extraction system for every product in the world.
+
 
 ### Applied Scientist Intern
 Mentor: Dr. Han Wang, Amazon Alexa AI, 2019.5-2019.8<br />
@@ -35,12 +38,16 @@ Advisor: Prof. Xiaogang Jin, AI Lab, Zhejiang University, 2014-2015 <br />
 
 
 ### Professional Service
-• PC member for International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS), 2019<br />
-• Reviewer for Annual Conference of the North American Chapter of the ACL (NAACL), 2019<br />
-• Reviewer for International AAAI Conference on Web and Social Media (ICWSM), 2019<br />
-• Reviewer for IEEE Intelligent Systems, 2019<br />
-• Reviewer for the journal of Neural Network, 2019<br />
-• Reviewer for Social Network Analysis and Mining , 2019<br />
-• Reviewer for IEEE Transactions on Network Science and Engineering, 2018<br />
-• Reviewer for Computational and Mathematical Organization Theory, 2018<br />
-• Reviewer for International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS), 2018<br />
+• Reviewer for Journal of Computational Social Science (JCSO), 2020 <br />
+• Reviewer for International AAAI Conference on Web and Social Media (ICWSM), 2019 & 2020 <br />
+• Reviewer for Computational and Mathematical Organization Theory, 2018 & 2020 <br />
+• PC member for Web Science Conference, 2020 <br />
+• Reviewer for Annual Meeting of the Association for Computational Linguistics (ACL), 2020 <br />
+• Reviewer for journal Social Network Analysis and Mining, 2019 & 2020 <br />
+• PC member for International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS), 2019 & 2020 <br />
+• Reviewer for Annual Conference of the North American Chapter of the ACL (NAACL), 2019 <br />
+• Reviewer for IEEE Intelligent Systems, 2019  <br />
+• Reviewer for the journal of Neural Network, 2019 <br />
+• Reviewer for IEEE Access, 2019 <br />
+• Reviewer for IEEE Transactions on Network Science and Engineering, 2018 <br />
+• Reviewer for International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS), 2018 <br />
