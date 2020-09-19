@@ -11,7 +11,7 @@ author_profile: true
 ### Applied Scientist Intern
 Mentor: Dr. Han Wang, Amazon Alexa AI, 2019.5-2019.8<br />
 • Built an entity linking system over the entire Amazon music knowledge graph<br />
-• Proposed a novel multi-grained matching approach to improve Alexa’s NLU performance with knowledge graph (paper coming soon).<br />
+• Proposed a novel multi-grained matching approach to improve Alexa’s NLU performance with knowledge graph [INTERSPEECH'20].<br />
 
 ### Research Assistant
 Advisor: Prof. Kathleen M. Carley, CASOS, Carnegie Mellon University, 2015.8-Present<br />
