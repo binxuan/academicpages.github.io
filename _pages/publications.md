@@ -6,6 +6,14 @@ author_profile: true
 ---
 
 ## Peer-reviewed Papers
+### Entity Linking for Short Text Using Structured Knowledge Graph via Multi-grained Text Matching
+**Binxuan Huang**, Han Wang, Tong Wang, Yue Liu, Yang Liu<br /> 
+INTERSPEECH, 2020 (To appear)<br /> 
+
+### An anatomical comparison of fake-news and trusted-news sharing pattern on Twitter
+Sumeet Kumar, **Binxuan Huang**, Ramon Alfonso Villa Cox, and Kathleen M. Carley<br /> 
+Computational and Mathematical Organization Theory, 2020<br /> 
+
 ###  Discover Your Social Identity from What You Tweet: A Content Based Approach
 **Binxuan Huang** and Kathleen M. Carley<br /> 
 Disinformation, Misinformation, and Fake News in Social Media: Emerging Research Challenges and Opportunities, 2020<br /> 
@@ -74,6 +82,11 @@ ASONAM 2017<br />
 [PDF](http://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=4929&context=sis_research)
 
 ## Preprints
+### Disinformation and Misinformation on Twitter during the Novel Coronavirus Outbreak
+**Binxuan Huang**, and Kathleen M. Carley <br />
+In submission <br />
+[Arxiv](https://arxiv.org/abs/2006.04278) 
+
 ### Recurrent U-net: Deep learning to predict daily summertime ozone in the United States
 Tai-Long He, Dylan Jones, **Binxuan Huang**, Yuyang Liu, Kazuyuki Miyazaki, Zhe Jiang, E Charlie White, Helen M Worden, John R Worden <br />
 In submission <br />
