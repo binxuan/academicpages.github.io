@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Binxuan Huang"
 title_separator          : "-"
 name                     : &name "Binxuan Huang"
-description              : &description "Applied Scientist at Aamazon, with a Ph.D. degree in Computer Science"
+description              : &description "Applied Scientist at Amazon, with a Ph.D. degree in Computer Science"
 url                      : https://binxuan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Binxuan Huang"
   avatar           : "profile.jpg"
-  bio              : "Applied Scientist at Aamazon, with a Ph.D. degree in Computer Science"
+  bio              : "Applied Scientist at Amazon, with a Ph.D. degree in Computer Science"
   location         : "Seattle, WA"
   employer         :
   googlescholar    : https://scholar.google.com/citations?user=_lCJGisAAAAJ&hl=en
