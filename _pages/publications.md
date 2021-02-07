@@ -6,9 +6,14 @@ author_profile: true
 ---
 
 ## Peer-reviewed Papers
+TCN: Table Convolutional Network for Web Table Interpretation,<br />
+Daheng Wang, Prashant Shiralkar, Colin Lockard, **Binxuan Huang**, Xin Luna Dong and Meng Jiang <br /> 
+The Web Conference, 2021 (to appear) <br /> 
+
 ### Entity Linking for Short Text Using Structured Knowledge Graph via Multi-grained Text Matching
 **Binxuan Huang**, Han Wang, Tong Wang, Yue Liu, Yang Liu<br /> 
-INTERSPEECH, 2020 (To appear)<br /> 
+INTERSPEECH, 2020 <br /> 
+[PDF](http://www.interspeech2020.org/uploadfile/pdf/Thu-2-4-3.pdf)
 
 ### An anatomical comparison of fake-news and trusted-news sharing pattern on Twitter
 Sumeet Kumar, **Binxuan Huang**, Ramon Alfonso Villa Cox, and Kathleen M. Carley<br /> 
