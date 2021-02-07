@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Peer-reviewed Papers
-TCN: Table Convolutional Network for Web Table Interpretation,<br />
+### TCN: Table Convolutional Network for Web Table Interpretation,<br />
 Daheng Wang, Prashant Shiralkar, Colin Lockard, **Binxuan Huang**, Xin Luna Dong and Meng Jiang <br /> 
 The Web Conference, 2021 (to appear) <br /> 
 
